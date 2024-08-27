@@ -1,0 +1,11 @@
+public class Robot extends TimedRobot {
+    @Override
+    public void robotInit() {
+        // Inicializações iniciais do robô, como configurar motores
+    }
+
+    @Override
+    public void teleopPeriodic() {
+        // Código que será executado enquanto o robô é controlado pelo driver
+    }
+}
